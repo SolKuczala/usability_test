@@ -1,2 +1,2 @@
 # usability_test
-Work for Gnome project, made it when participating on Outreachy round 17#
+Work for Gnome project on Outreachy round 17# (2018)
